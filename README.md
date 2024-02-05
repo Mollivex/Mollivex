@@ -1,5 +1,7 @@
 # About Me
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alexander+Kochier;Software+Full-stack+Developer)](https://git.io/typing-svg)
+
 Hi there! I'm Alex and I'm an aspiring software developer. With the structural engineering background I decided to change my entire vector of development and discovered a new interesting oppotunities in the field of IT Development. I'm extremely inspired and motivated for seeking a new challanges and continuously open for opportunities to improve myself in the new sphere.
 
 At the moment I actively learn and practice the fundamentals of front-end (Javascript, HTML5, CSS3, AngularJS Framework) and back-end development ( .NET6+ Framework, C#, ASP.NET MVC 5, .NET Blazor Framework, .NET MAUI, Microsoft SQL Server).
