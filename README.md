@@ -13,6 +13,6 @@ At the moment I actively learn and practice the fundamentals of front-end (Javas
   </a>
 </p>
 
-<h2><img src="https://skillicons.dev/icons?i=linkedin" /> My LinkedIn profile <a href="https://www.linkedin.com/in/alexanderkochier/"><img src="https://img.shields.io/badge/alexanderkochier-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></h2>
-https://www.linkedin.com/in/alexanderkochier/
+<h2><a href="https://www.linkedin.com/in/alexanderkochier/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> My LinkedIn profile </h2>
+<a href="https://www.linkedin.com/in/alexanderkochier/"><img src="https://img.shields.io/badge/alexanderkochier-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
