@@ -9,7 +9,7 @@ At the moment I actively learn and practice the fundamentals of front-end (Javas
 <p align="center">
   <a href="https://skillicons.dev">
     <h1>### :hammer_and_wrench: Languages and Tools :</h1>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,cs,dotnet,visualstudio,vscode,angular,nodejs,jquery,js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,cs,dotnet,visualstudio,vscode,angular,js,ts,html,css" />
   </a>
 </p>
 
